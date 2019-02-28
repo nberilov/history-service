@@ -1,0 +1,14 @@
+[
+  {
+    "__key__": "aapl",
+    "logo": "https://storage.googleapis.com/iex/api/logos/AAPL.png",
+    "name": "Apple Inc.",
+    "symbol": "aapl"
+  },
+  {
+    "__key__": "googl",
+    "logo": "https://storage.googleapis.com/iex/api/logos/GOOGL.png",
+    "name": "Alphabet Inc. Class A",
+    "symbol": "googl"
+  }
+]

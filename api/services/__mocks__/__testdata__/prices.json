@@ -1,0 +1,22 @@
+[
+  {
+    "price": 172.97,
+    "createdAt": 1550000000000,
+    "symbol": "aapl"
+  },
+  {
+    "price": 190.14,
+    "createdAt": 1560000000000,
+    "symbol": "aapl"
+  },
+  {
+    "price": 1116.56,
+    "createdAt": 1550000000000,
+    "symbol": "googl"
+  },
+  {
+    "price": 1234.56,
+    "createdAt": 1560000000000,
+    "symbol": "googl"
+  }
+]

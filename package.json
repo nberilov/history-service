@@ -1,0 +1,21 @@
+{
+  "name": "history-service",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@google-cloud/datastore": "^3.1.1",
+    "dotenv": "^6.2.0",
+    "express": "~4.16.0",
+    "morgan": "~1.9.0",
+    "prom-client": "^11.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "jest": "^24.1.0",
+    "nodemon": "^1.18.10"
+  }
+}
